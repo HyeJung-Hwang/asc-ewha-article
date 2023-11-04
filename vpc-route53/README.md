@@ -14,6 +14,7 @@
 
 - 기본 지식을 배웠으니 나도 VPC를 만들고, 서브넷을 나눠서 각각의 서브넷이 인터넷에 접근할 수 있게 구축을 할 수 있게 해보자. 내가 만들 vpc 구조는 아래와 같다.
 <img width="460" alt="image" src="https://github.com/HyeJung-Hwang/asc-ewha-article/assets/79091824/02c3dd97-bec1-42f9-9f62-05760849c9a8">
+
 - 먼저, vpc를 이름은 my-second-vpc-vpc, ip는 10.10.0.0/16(IPv4의 CIDR식 표기)로 할당해서 만든다.
 <img width="626" alt="image" src="https://github.com/HyeJung-Hwang/asc-ewha-article/assets/79091824/c0b8b0c9-14c8-47d8-8d26-cd5e210a8f9c">
 
