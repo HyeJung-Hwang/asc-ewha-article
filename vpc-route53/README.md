@@ -11,6 +11,7 @@
 2. 내가 커스터마이징해서 내 VPC 안에 서브넷을 이것 저것 구축하면 내 Region 안에 있는 AZ 안에 구축이 된다.
 3. 내가 만든 VPC가 인터넷과 연결이 되려면 Ingernet Gateway를 통해 나가야 한다.
 ```
+
 - 기본 지식을 배웠으니 나도 VPC를 만들고, 서브넷을 나눠서 각각의 서브넷이 인터넷에 접근할 수 있게 구축을 할 수 있게 해보자. 내가 만들 vpc 구조는 아래와 같다.
 <img width="460" alt="image" src="https://github.com/HyeJung-Hwang/asc-ewha-article/assets/79091824/02c3dd97-bec1-42f9-9f62-05760849c9a8">
 - 먼저, vpc를 이름은 my-second-vpc-vpc, ip는 10.10.0.0/16(IPv4의 CIDR식 표기)로 할당해서 만든다.
