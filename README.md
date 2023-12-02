@@ -11,5 +11,9 @@ asc-ewha-article
 │   └── README.md
 ├── vpc-route53
 │   └── README.md
+├── RDS-DynamoDB
+│   └── README.md
+├── S3
+│   └── README.md
 └── README.md
 ```
