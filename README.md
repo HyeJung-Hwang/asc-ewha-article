@@ -3,6 +3,10 @@
 ## 레포지토리 구조
 ```
 asc-ewha-article
+├── Cloud-Computing-IAM
+│   └── README.md
+├── EC2-Lightsail
+│   └── README.md
 ├── vpc-route53
 │   └── README.md
 └── README.md
